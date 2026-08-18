@@ -1,15 +1,27 @@
 ## Pham Manh Luc
 
-Mình làm web, chủ yếu với JavaScript/TypeScript và React. Thích những dự án nhỏ chạy được thật hơn là kiến trúc đẹp trên giấy.
+Web developer from Vietnam. I like small projects that actually run over clean architecture on paper, so most of what is here is something I built because I wanted to use it myself.
 
-**Tech stack:** JavaScript, TypeScript, React, Next.js, Node.js, C#, Tailwind CSS
+Right now I spend most of my time on Arena of Valor (Liên Quân Mobile) tooling: crawling the official and community sources, normalising them into one open dataset, and serving it from a static site that needs no backend.
 
-### Dự án
+**Languages** — JavaScript, TypeScript, C#
+**Frontend** — React, Next.js, Tailwind CSS
+**Backend** — Node.js, ASP.NET, REST APIs
+**Data & tooling** — Node crawlers, JSON pipelines, Git, GitHub Actions, Vercel
 
-- [lien-quan-data](https://github.com/MLuc24/lien-quan-data) — Dataset JSON mở cho Liên Quân Mobile: 129 tướng, 112 trang bị, 88 ngọc. Không cần API key, cập nhật hằng tuần.
-- [LQ](https://github.com/MLuc24/LQ) — Web tra cứu Liên Quân Mobile, dựng bằng Next.js trên bộ dữ liệu tự crawl.
-- [Repix.art](https://github.com/MLuc24/Repix.art) — Trình chỉnh sửa ảnh NanoEdit.
+### Projects
 
-### Thống kê
+**[lien-quan-data](https://github.com/MLuc24/lien-quan-data)** — Open JSON dataset for Arena of Valor: 129 heroes, 112 items, 88 arcana and the full spell list. No API key, no rate limit, refreshed weekly. Built for anyone who wants the game data without writing their own scraper.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MLuc24&show_icons=true&hide_border=true)
+**[LQ](https://github.com/MLuc24/LQ)** — Reference site for Arena of Valor built on top of that dataset. Next.js with a static export, so pages ship as plain HTML with no client-side fetching.
+
+**[Repix.art](https://github.com/MLuc24/Repix.art)** — NanoEdit image editor, written in TypeScript.
+
+**[QuanLyThuVien](https://github.com/MLuc24/QuanLyThuVien)** — Library management system in C#.
+
+### Stats
+
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MLuc24&theme=transparent)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MLuc24&theme=transparent)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MLuc24&theme=transparent)
