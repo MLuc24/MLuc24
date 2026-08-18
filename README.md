@@ -1,12 +1,14 @@
-## Xin chào, mình là MLuc24
+## Phạm Mạnh Lực
 
-Mình làm web, chủ yếu với JavaScript và React. Thích những dự án nhỏ chạy được thật hơn là kiến trúc đẹp trên giấy.
+Mình làm web, chủ yếu với JavaScript/TypeScript và React. Thích những dự án nhỏ chạy được thật hơn là kiến trúc đẹp trên giấy.
 
-**Tech stack:** JavaScript, React, Next.js, Node.js, Tailwind CSS
+**Tech stack:** JavaScript, TypeScript, React, Next.js, Node.js, C#, Tailwind CSS
 
 ### Dự án
 
-- [LQ](https://github.com/MLuc24/LQ) — Web tra cứu Liên Quân Mobile: tướng, kỹ năng, trang bị, ngọc. Next.js + dữ liệu tự crawl.
+- [lien-quan-data](https://github.com/MLuc24/lien-quan-data) — Dataset JSON mở cho Liên Quân Mobile: 129 tướng, 112 trang bị, 88 ngọc. Không cần API key, cập nhật hằng tuần.
+- [LQ](https://github.com/MLuc24/LQ) — Web tra cứu Liên Quân Mobile, dựng bằng Next.js trên bộ dữ liệu tự crawl.
+- [Repix.art](https://github.com/MLuc24/Repix.art) — Trình chỉnh sửa ảnh NanoEdit.
 
 ### Thống kê
 
