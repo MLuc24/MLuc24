@@ -1,27 +1,32 @@
-## Pham Manh Luc
+<h1 align="center">Pham Manh Luc</h1>
 
-Web developer from Vietnam. I like small projects that actually run over clean architecture on paper, so most of what is here is something I built because I wanted to use it myself.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=560&height=45&lines=Web+developer+from+Vietnam;Small+projects+that+actually+run;Currently+building+Arena+of+Valor+tooling" alt="Web developer from Vietnam" />
+</p>
 
-Right now I spend most of my time on Arena of Valor (Liên Quân Mobile) tooling: crawling the official and community sources, normalising them into one open dataset, and serving it from a static site that needs no backend.
+<p align="center">
+  I like small projects that actually run over clean architecture on paper,<br />
+  so most of what is here is something I built because I wanted to use it myself.
+</p>
 
-**Languages** — JavaScript, TypeScript, C#
-**Frontend** — React, Next.js, Tailwind CSS
-**Backend** — Node.js, ASP.NET, REST APIs
-**Data & tooling** — Node crawlers, JSON pipelines, Git, GitHub Actions, Vercel
+<br />
 
-### Projects
+<h3 align="center">Tech</h3>
 
-**[lien-quan-data](https://github.com/MLuc24/lien-quan-data)** — Open JSON dataset for Arena of Valor: 129 heroes, 112 items, 88 arcana and the full spell list. No API key, no rate limit, refreshed weekly. Built for anyone who wants the game data without writing their own scraper.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+</p>
 
-**[LQ](https://github.com/MLuc24/LQ)** — Reference site for Arena of Valor built on top of that dataset. Next.js with a static export, so pages ship as plain HTML with no client-side fetching.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-**[Repix.art](https://github.com/MLuc24/Repix.art)** — NanoEdit image editor, written in TypeScript.
-
-**[QuanLyThuVien](https://github.com/MLuc24/QuanLyThuVien)** — Library management system in C#.
-
-### Stats
-
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MLuc24&theme=transparent)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MLuc24&theme=transparent)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MLuc24&theme=transparent)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
