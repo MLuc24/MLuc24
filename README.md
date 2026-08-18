@@ -1,4 +1,4 @@
-## Phạm Mạnh Lực
+## Pham Manh Luc
 
 Mình làm web, chủ yếu với JavaScript/TypeScript và React. Thích những dự án nhỏ chạy được thật hơn là kiến trúc đẹp trên giấy.
 
