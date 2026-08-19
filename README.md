@@ -1,32 +1,19 @@
-<h1 align="center">Pham Manh Luc</h1>
+<img src="https://raw.githubusercontent.com/MLuc24/MLuc24/main/assets/header.png" width="880" alt="Phạm Mạnh Lực — web developer in Vietnam. Small projects that actually run. TypeScript, React, Next.js, Node.js, C# / .NET, Tailwind.">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=560&height=45&lines=Web+developer+from+Vietnam;Small+projects+that+actually+run;Currently+building+Arena+of+Valor+tooling" alt="Web developer from Vietnam" />
-</p>
+### [lien-quan-data](https://github.com/MLuc24/lien-quan-data) &nbsp; [![stars](https://img.shields.io/github/stars/MLuc24/lien-quan-data?style=flat-square&label=%E2%98%85&color=8B5CF6&labelColor=161B22)](https://github.com/MLuc24/lien-quan-data) [![updated](https://img.shields.io/github/last-commit/MLuc24/lien-quan-data?style=flat-square&label=updated&color=475569&labelColor=161B22)](https://github.com/MLuc24/lien-quan-data/commits/main)
 
-<p align="center">
-  I like small projects that actually run over clean architecture on paper,<br />
-  so most of what is here is something I built because I wanted to use it myself.
-</p>
+Open JSON dataset for Arena of Valor — 129 heroes, 112 items, 88 arcana. No API key, refreshed weekly.
 
-<br />
+```js
+fetch('https://cdn.jsdelivr.net/gh/MLuc24/lien-quan-data@main/data/heroes.json')
+```
 
-<h3 align="center">Tech</h3>
+### Other work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Project | | Stack |
+|---|---|---|
+| [Repix.art](https://github.com/MLuc24/Repix.art) | NanoEdit image editor | TypeScript |
+| [AppTet](https://github.com/MLuc24/AppTet) | Tết e-commerce app | TypeScript |
+| [Social-media-app](https://github.com/MLuc24/Social-media-app) | .NET Core API + JS client | C# |
+| [Warehouse](https://github.com/MLuc24/Warehouse-backend) | Stock management, API + [UI](https://github.com/MLuc24/Warehouse-frontend) | C# · TypeScript |
+| [Train Ticket](https://github.com/MLuc24/Train_Ticket_Be) | Online booking, API + [UI](https://github.com/MLuc24/Train_Ticket_FE) | TypeScript |
